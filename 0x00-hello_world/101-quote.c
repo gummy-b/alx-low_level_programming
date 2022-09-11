@@ -2,11 +2,10 @@
 #include <unistd.h>
 /**
 * Main - Entry point
-* Writes message - and and that piece of art is useflu"- Dora Korpar, 2015-10-19
+* Writes message - and and that piece of art is useful"
+* - Dora Korpar, 2015-10-19
 * followed by a new line, to the standard error
-*
-*
-*Return: 0 (Success)
+*Return: Always 0 (Success)
 */
 
 int main(void)
