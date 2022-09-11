@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
 * Main - Entry point
-* Writes message - and and that piece of art is useful"
+* Description: Writes message - and and that piece of art is useful"
 * - Dora Korpar, 2015-10-19
 * followed by a new line, to the standard error
 *Return: Always 0 (Success)
