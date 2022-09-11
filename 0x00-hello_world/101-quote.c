@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* Main - Writes message to the standard error
+* Main - Entry point
+* Writes message - and and that piece of art is useflu"- Dora Korpar, 2015-10-19
+* followed by a new line, to the standard error
 *
 *
 *Return: 0 (Success)
