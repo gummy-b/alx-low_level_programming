@@ -3,9 +3,8 @@
 #include <time.h>
 
 
-/*
-* main: Program Entry Point
-* Description: Program assigns random number and checks
+/**
+* main: Program assigns random number and checks
 * whether number is positive, negative or equal zero
 * Return: Success (0)
 */
