@@ -3,6 +3,8 @@
 * main - a program that prints alphabets
 * Return: Always 0.
 */
+
+/* function that prints alphabets*/
 void print_alphabet(void)
 {
 char alph = 'a';
