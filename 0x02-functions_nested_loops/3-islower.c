@@ -1,6 +1,7 @@
 #include "main.h"
 /**
-* _islower(int c) - prints 1 if int c is lowercase otherwise 0.
+* _islower - prints 1 if int c is lowercase otherwise 0.
+* @c: parameter recieves input as int
 * Return: Always 0.
 */
 
