@@ -1,0 +1,17 @@
+#include "main.h"
+/**
+* print_last_digit - function that prints the last digit of a number.
+* @n: number which its last digit is to be extracted.
+* Return: Return the vakue of the last digit.
+*/
+int print_last_digit(int n)
+{
+int lsdgt;
+if (n < 0)
+n = -n;
+lsdgt = n % 10;
+if (lsdgt < 0)
+lsdgt = -lsdgt;
+_putchar(lsdgt + '0');
+return (0);
+}
