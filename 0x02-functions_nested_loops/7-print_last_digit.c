@@ -13,5 +13,5 @@ lsdgt = n % 10;
 if (lsdgt < 0)
 lsdgt = -lsdgt;
 _putchar(lsdgt + '0');
-return (0);
+return (lsdgt);
 }
