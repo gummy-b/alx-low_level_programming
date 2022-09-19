@@ -8,20 +8,18 @@
 void print_rev(char *s)
 {
 int i, j;
-char c;
 i = 0;
 while (s[i] != '\0')
 {
 i++;
 }
 j = i - 1;
-i = 0;
-while (i < j)
+while (s[j])
 {
-c = s[j];
-s[j] = s[i];
-s[i] = c;
-i++;
+_putchar(s[j]);
 j--;
 }
+_putchar(10);
 }
+
+
