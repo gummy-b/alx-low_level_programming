@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* pust_half - function that prints half a string
+* puts_half - function that prints half a string
 * Description: a function that prints half of a string
 * followed by a new line.
 * @str: input string
@@ -8,7 +8,7 @@
 */
 void puts_half(char *str)
 {
- int i;
+int i;
 for (i = 0; str[i] != '\0'; i++)
 {
 ;
