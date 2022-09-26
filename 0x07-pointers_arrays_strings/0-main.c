@@ -2,6 +2,7 @@
 #include <stdio.h>
 /**
 * simple_print_buffer - prints buffer in hexa
+* Description: a function that fills memory w/a constant byte
 * @buffer: the address of memory to print
 * @size: the size of the memory to print
 *
