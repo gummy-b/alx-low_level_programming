@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 * *_memset - function that fills memory with constant bytes.
+* Description: a function that fills memory with constant bytes.
 * @s: char pointer input
 * @b: char input
 * @n: uint input
@@ -17,4 +18,3 @@ i++;
 }
 return (s);
 }
-
